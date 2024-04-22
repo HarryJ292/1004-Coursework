@@ -7,6 +7,6 @@ h1 {
     display: flex;
 }
 
-.navList div {
+.navList li {
     margin: 5px;
 }
