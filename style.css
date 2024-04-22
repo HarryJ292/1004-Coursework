@@ -3,5 +3,10 @@ h1 {
 }
 
 .navList {
+    text-align: center;
     display: flex;
+}
+
+.navList div {
+    margin: 5px;
 }
